@@ -6,3 +6,4 @@ UI commit 2 - error/loading states plan
 UI commit 3 - navigation plan
 Validation commit 1 - client rules
 Validation commit 2 - server rules
+Validation commit 3 - messages format
