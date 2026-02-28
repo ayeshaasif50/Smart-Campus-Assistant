@@ -8,3 +8,4 @@ Validation commit 1 - client rules
 Validation commit 2 - server rules
 Validation commit 3 - messages format
 Validation commit 1 - client rules
+Validation commit 2 - server rules
